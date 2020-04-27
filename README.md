@@ -1,6 +1,6 @@
 # getBooks
 
-An script to download the list of free ebooks released by Springer during the quarantine period.
+A script to download the list of free ebooks released by Springer during the quarantine period.
 
 ## Get The Source
 
